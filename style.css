@@ -1,18 +1,32 @@
 body {
     padding: 0px;
     margin: 0px;
-    background-color: #FFDD55;
 }
 
 .Frame1 {
+    padding: 0px;
+    margin: 0px;
     background-color: #ffffff;
+}
+
+.Frame2 {
+    padding: 2px;
+    margin: 0px;
+    background-color: #FFDD55;
+}
+
+.Frame3 {
+    padding: 2px;
+    margin: 0px;
+    background-color: #FFDD55;
 }
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     overflow: hidden;
+    clear: both;
 }
 
 li {
@@ -20,6 +34,8 @@ li {
 }
 
 li img {
+    float: left;
+    margin: 15px;
     padding: 10px;
 }
 
@@ -52,7 +68,6 @@ img {
 
 h3 {
     padding: 15px;
-    /* margin: 10px; */
     background-color: #1155DD;
     color: black;
     border: 0px solid black;
@@ -63,12 +78,7 @@ h3 {
     border-radius: 100px;
 }
 
-table,
-th,
-td {
-    border: 1px solid black;
+.footer {
+    padding: 0px;
+    background-color: #FFDD55;
 }
-
-/* .footer{
-
-} */
