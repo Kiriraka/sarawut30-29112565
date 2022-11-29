@@ -62,12 +62,12 @@ h1 {
     margin: 0;
 }
 
-img {
+.Frame2 img {
     border-radius: 50%;
 }
 
-h3 {
-    padding: 15px;
+h2 {
+    padding: 20px;
     background-color: #1155DD;
     color: black;
     border: 0px solid black;
