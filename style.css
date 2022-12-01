@@ -57,6 +57,12 @@ li a {
     text-decoration: none;
 }
 
+.col-sm-5 p {
+    padding: 1px;
+    width: auto;
+    height: 50px;
+}
+
 .w3-btn {
     background-color: #D9D9D9;
     color: black;
@@ -70,10 +76,6 @@ h1 {
     font-size: 75px;
     text-align: center;
     margin: 0;
-}
-
-.Frame2 img {
-    border-radius: 50%;
 }
 
 h2 {
