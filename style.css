@@ -3,20 +3,30 @@ body {
     margin: 0px;
 }
 
-.Frame1 {
-    padding: 0px;
-    margin: 0px;
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
     background-color: #ffffff;
 }
 
+ul.topnav li {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
 .Frame2 {
-    padding: 2px;
+    padding: 1px;
     margin: 0px;
     background-color: #FFDD55;
 }
 
 .Frame3 {
-    padding: 2px;
+    padding: 1px;
     margin: 0px;
     background-color: #FFDD55;
 }
@@ -78,7 +88,15 @@ h2 {
     border-radius: 100px;
 }
 
-.footer {
-    padding: 0px;
-    background-color: #FFDD55;
+
+ul.footer {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+ul.footer li {
+    float: left;
 }
