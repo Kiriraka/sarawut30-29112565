@@ -1,6 +1,6 @@
 body {
-    padding: 0px;
-    margin: 0px;
+    padding: 0;
+    margin: 0;
 }
 
 ul.topnav {
@@ -20,24 +20,26 @@ ul.topnav li {
 }
 
 .Frame2 {
-    padding: 1px;
-    margin: 0px;
+    margin: 0;
+    padding: 1%;
     background-color: #FFDD55;
 }
 
 .Frame3 {
-    padding: 1px;
-    margin: 0px;
+    margin: 0;
+    padding: 1%;
     background-color: #FFDD55;
 }
 
 ul {
     list-style-type: none;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     overflow: hidden;
     clear: both;
+
 }
+
 
 li {
     float: left;
@@ -70,12 +72,12 @@ li a {
     height: 25px;
     width: 75px;
     border-radius: 10px;
+
 }
 
 h1 {
     font-size: 75px;
     text-align: center;
-    margin: 0;
 }
 
 h2 {
@@ -84,9 +86,9 @@ h2 {
     color: black;
     border: 0px solid black;
     text-align: center;
-    font-size: 60px;
-    height: 80px;
-    width: 400px;
+    font-size: 40px;
+    height: 70px;
+    width: 350px;
     border-radius: 100px;
 }
 
