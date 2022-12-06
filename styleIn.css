@@ -3,25 +3,16 @@ body {
     padding: 0;
 }
 
-
 .Frame2 {
     margin: 0;
     padding: 1%;
     background-color: #11FF66;
-
 }
 
 .Frame3 {
     margin: 0;
     padding: 1%;
     background-color: #11FF66;
-}
-
-
-.col-sm-5 p {
-    padding: 1px;
-    width: auto;
-    height: 50px;
 }
 
 .btn-top {
@@ -31,7 +22,6 @@ body {
     height: 25px;
     width: 100px;
     border-radius: 10px;
-    float: right;
 }
 
 .w3-btn {
@@ -57,19 +47,6 @@ h2 {
     border: 0px solid black;
     text-align: center;
     font-size: 40px;
-}
-
-
-ul.footer {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #ffffff;
-}
-
-ul.footer li {
-    float: left;
 }
 
 li a {
