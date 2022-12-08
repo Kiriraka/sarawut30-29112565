@@ -6,13 +6,13 @@ body {
 .Frame2 {
     margin: 0;
     padding: 1%;
-    background-color: #FFDD55;
+    background-color: #11FF66;
 }
 
 .Frame3 {
     margin: 0;
     padding: 1%;
-    background-color: #FFDD55;
+    background-color: #11FF66;
 }
 
 .btn-top {
@@ -24,21 +24,29 @@ body {
     border-radius: 10px;
 }
 
+.w3-btn {
+    margin: 1%;
+    padding: 0;
+    background-color: #18A0FB;
+    color: white;
+    border: 0px solid white;
+    height: 25px;
+    width: 100px;
+    border-radius: 5px;
+}
+
 h1 {
     font-size: 75px;
     text-align: center;
+    margin: 0;
 }
 
 h2 {
     padding: 20px;
-    background-color: #1155DD;
     color: black;
     border: 0px solid black;
     text-align: center;
     font-size: 40px;
-    height: 75px;
-    width: 350px;
-    border-radius: 100px;
 }
 
 li a {
